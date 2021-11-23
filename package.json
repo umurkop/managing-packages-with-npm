@@ -1,10 +1,10 @@
 {
 	"author": "Alper Umur Kop",
 	"description": "A project that does something awesome",
-	"name": "fcc-learn-npm-package-json",
+	"keywords": [ "freecodecamp", "Alper Umur Kop", "Learn to be a Programmer" ],
 	"license": "MIT",
 	"version": "1.0",
-	"keywords": [ "freecodecamp", "Alper Umur Kop", "Learn to be a Programmer" ],
+	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
