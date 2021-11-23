@@ -2,6 +2,7 @@
 	"author": "Alper Umur Kop",
 	"description": "A project that does something awesome",
 	"keywords": [ "freecodecamp", "Alper Umur Kop", "Learn to be a Programmer" ],
+	"license": "MIT",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
